@@ -9,7 +9,9 @@ class board:
         self.spaces = [[' '] * self.width for i in range(self.height)]
 
     def __repr__(self) -> str:
-        pass
+        s = ''
+                
+
 
     def add_pieces(self):
         pass

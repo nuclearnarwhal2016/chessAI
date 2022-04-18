@@ -2,4 +2,4 @@ import imp
 
 
 def main():
-    import board, pieces, ai
+    import board, piece, ai
